@@ -17,4 +17,6 @@ feature:
     icon_pack: fas
     name: Personal Notebook
     description: For yourself
+widget_id: liuiyifan
 ---
+rwwwwwjtiopwjtio0p2j2qwotjo2jotj2t2t2t2t
